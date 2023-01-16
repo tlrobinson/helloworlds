@@ -1,0 +1,2 @@
+run:
+	perl main.pl
